@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpaceGroove", "SpaceGroove\SpaceGroove.csproj", "{5C5A3EBD-FD3F-4736-ADDD-5F049A2E2695}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C5A3EBD-FD3F-4736-ADDD-5F049A2E2695}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C5A3EBD-FD3F-4736-ADDD-5F049A2E2695}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C5A3EBD-FD3F-4736-ADDD-5F049A2E2695}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C5A3EBD-FD3F-4736-ADDD-5F049A2E2695}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {432916F9-A67B-44B4-95FF-05A863918B03}
+	EndGlobalSection
+EndGlobal
